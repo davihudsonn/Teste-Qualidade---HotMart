@@ -39,7 +39,6 @@ O objetivo foi aplicar conceitos de **Teste de Software**, garantindo a validaç
 testequalidade/
 │
 ├── venv/
-├── estoque.db
 │
 ├── test_ct006_login.py
 ├── test_ct007_login.py
