@@ -116,8 +116,6 @@ python test_ct007_login.py
 
 ---
 
-# 📸 Evidências
-
 ## CT_006
 
 - Login realizado com sucesso.
